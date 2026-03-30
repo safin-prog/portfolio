@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // This is your connection string with your password
-const MONGODB_URI = "mongodb+srv://safinsanthosh037_db_user:<Nisttal2004>@cluster0.vzfqd8y.mongodb.net/portfolio?retryWrites=true&w=majority";
+const MONGODB_URI = "mongodb+srv://safinsanthosh037_db_user:<Safin2007>@cluster0.vzfqd8y.mongodb.net/portfolio?retryWrites=true&w=majority";
 const feedbackSchema = new mongoose.Schema({
     name: String,
     email: String,
